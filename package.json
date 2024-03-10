@@ -14,6 +14,7 @@
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.2.1",
     "@testing-library/user-event": "^14.5.2",
+    "apexcharts": "^3.46.0",
     "date-fns": "^3.3.1",
     "firebase": "^10.8.0",
     "npm-check": "^6.0.1",
